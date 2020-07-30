@@ -1,0 +1,20 @@
+{
+  "name": "trabalhopratico2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessicaperuggia/estadosEcidades.git"
+  },
+  "author": "jessicaPeruggia",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/jessicaperuggia/estadosEcidades/issues"
+  },
+  "homepage": "https://github.com/jessicaperuggia/estadosEcidades#readme"
+}
