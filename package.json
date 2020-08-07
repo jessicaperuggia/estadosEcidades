@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/jessicaperuggia/estadosEcidades.git"
   },
+  "keywords": [],
   "author": "jessicaPeruggia",
   "license": "ISC",
   "type": "module",
